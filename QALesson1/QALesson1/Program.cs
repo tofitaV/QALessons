@@ -12,6 +12,7 @@ namespace QALesson1
         {
             Console.WriteLine("hi");
             Console.WriteLine("hi");
+            Console.WriteLine("hi2");
         }
     }
 }
